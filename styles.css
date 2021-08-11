@@ -1,0 +1,10 @@
+body {
+    background-color: #fff;
+    text-align: center;
+}
+
+.logo {
+    margin: auto;
+    display: block;
+    padding-top: 10%;
+}
